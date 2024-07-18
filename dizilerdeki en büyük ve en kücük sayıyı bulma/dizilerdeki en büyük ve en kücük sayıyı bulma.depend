@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704394795 source:c:\users\Þaban\desktop\fehmi uyar dersleri\dizilerdeki en büyük ve en kücük sayýyý bulma\main.c
+	<stdio.h>
+	<stdlib.h>
+

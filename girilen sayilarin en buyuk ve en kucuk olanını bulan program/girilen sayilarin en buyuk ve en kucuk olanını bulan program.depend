@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700501746 source:c:\users\Þaban\desktop\fehmi uyar dersleri\girilen sayilarin en buyuk ve en kucuk olanýný bulan program\main.c
+	<stdio.h>
+	<stdlib.h>
+

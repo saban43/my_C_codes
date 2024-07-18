@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703961395 source:c:\users\Þaban\desktop\fehmi uyar dersleri\rastgele sayý üretme fonksiyonu rand\main.c
+	<stdio.h>
+	<stdlib.h>
+

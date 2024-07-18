@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699198357 source:c:\users\Þaban\desktop\fehmi uyar dersleri\kullanýcýdan 4 bas bir sayi alip rakamlarý toplayan program\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700385839 source:c:\users\Þaban\desktop\fehmi uyar dersleri\1 den girilen sayýya kadar olan asal sayýlarý bulan program döngü ile\main.c
+	<stdio.h>
+	<stdlib.h>
+
